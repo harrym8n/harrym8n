@@ -1,16 +1,55 @@
-## Hi there 👋
+# 안녕하세요! 데이터로 공감을 일으키는 문상혁입니다.
+---
+데이터를 통해 문제를 발굴하고,
+찾은 문제를 해결하기 위해 고민하는 것을 즐기며 일합니다.
 
-<!--
-**harrym8n/harrym8n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> ### **Highlights**
 
-Here are some ideas to get you started:
+✓ 제품 생애주기의 전 퍼널에서 데이터를 통해 문제 발굴•정의•검증•해결 과정을 많이 경험했습니다.\
+✓ 마케팅•제품 등의 데이터에 대한 분석 경험이 있으며, 액션을 위한 인사이트 도출도 가능합니다.\
+✓ 명확한 문제 정의를 위해 문제의 근원을 끝까지 탐구하는 것을 즐깁니다.\
+✓ 개발자, 디자이너, PM, 협력사 등 다양한 주체와 협업한 경험이 많습니다.\
+✓ 상대방에 딱 맞는 가장 효율적인 방식으로 소통하며 의견을 전달할 때는 따뜻한 표현을 사용합니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+> ### Skills
+보유한 스킬을 소개합니다.
+
+**Hard Skills**
+
+- **데이터 기반의 실험적 사고를 지니고 일합니다.**
+    - 소재 A/B 테스트를 통한 광고 최적화 ([proj.멤버십 100원 프로모션](https://www.notion.so/100-11531dfc2d0581cf94b0c0c577538869?pvs=21))
+    - 웹사이트 유입을 늘리기 위해 개발자, 디자이너와 협업하여 UI/UX 실험 진행 경험
+    - 이벤트 페이지, 앱 다운로드 페이지, 웹사이트 등에 UTM태그 삽입하여 유입 채널 데이터 적재 및 분석
+- **데이터 분석 및 시각화 역량을 가지고 있습니다.**
+    *SQL, Python, Amplitude, GA4, Mixpanel, Looker Studio*
+    - SQL, Python을 통해 원하는 데이터를 추출하고 가공할 수 있습니다.
+    - Python을 통해 데이터 분석이 가능합니다.(퍼널분석, 코호트 분석, 회귀분석, 클러스터분석, RFM, 로그분석 등) - `pandas`, `matplotlib`, `scikit-learn`, `seaborn`, `numpy` , `plotly`, etc.
+- **AARRR 프레임워크에 대한 이해도가 높으며, 업무에 적용할 수 있습니다.**
+    - 유저 행동 시나리오 전반적으로 문제를 발견하고 개선합니다.
+    - 퍼널 단계에 맞는 지표를 정의하고 분석하여 문제를 발굴합니다.
+- **협업툴 사용에 능숙합니다.** (Slack, Notion, Colab, Confluence, Asana, Figma, Git)
+    - 스타트업 환경에서 근무하며 다양한 협업툴을 사용했습니다.
+
+**Soft Skills**
+
+- **문제 정의를 통한 문제 해결 능력이 뛰어납니다.**
+- **개발자, 디자이너, PM, 협력사 등 다양한 주체와 협업한 경험이 많습니다.**
+    - 앱•웹 서비스, 광고 대행사에서 근무하며 다양한 주체와 협업을 진행했습니다.
+    - PM, 개발자, 디자이너와 협업하여 프로모션, 이벤트, 유저 시나리오 개선 등을 진행했습니다.
+- **효율적인 방식과 더불어 따뜻한 표현으로 소통합니다.**
+- **성장에 대한 의지가 강하며 일을 통해 자아를 실현하고자 합니다.**
+    - 2024.10.11 부터 현재까지 하루도 빠짐없이 Github에 작성한 코드를 커밋하였습니다.([Github 링크](https://github.com/harrym8n))
+    - 블로그에 SQL, Python, 데이터 분석과 관련하여 배운 점을 정리하여 포스팅하였습니다.([블로그 링크](https://harrym8n.tistory.com/))
+    - 데이터 기반의 의사결정이 필요한 업무를 진행하며 SQL과 통계 관련 기초 지식의 필요성을 느껴 퇴근 후 공부로 SQL 개발자(SQLD), 데이터 분석 준전문가(ADsP) 자격증을 취득하였습니다.
+- **안된다고 생각하지 않고 일단 시도하는 것을 선호합니다.**
+
+---
+
+> ### **Contact**
+Email : clue221b@naver.com\
+Tel : 010-2808-1663
+
+https://github.com/harrym8n \
+https://harrym8n.tistory.com
