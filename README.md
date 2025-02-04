@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ab614e1f-8c8f-4d1a-bbb6-aea43acd8f5b)# 안녕하세요! 데이터로 공감을 일으키는 문상혁입니다.
+# 안녕하세요! 데이터로 공감을 일으키는 문상혁입니다.
 ---
 데이터를 통해 문제를 발굴하고,
 찾은 문제를 해결하기 위해 고민하는 것을 즐기며 일합니다.
