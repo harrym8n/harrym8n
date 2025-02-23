@@ -1,6 +1,19 @@
 # 안녕하세요! 데이터로 공감을 일으키는 문상혁입니다.
 ---
-안녕하세요, SNS & 콘텐츠 구독 플랫폼 로그 데이터 분석 및 시각화에 대한 경험을 가진 데이터 분석가 문상혁입니다. 퍼포먼스 광고대행사와 인하우스 SNS플랫폼에서 그로스 마케터로 데이터 분석 업무를 경험하며 다양한 비즈니스에 대한 이해도를 높였습니다. 콘텐츠 구독 플랫폼, 이커머스, 공공데이터 등 다양한 RAW 데이터를 EDA한 경험을 보유하고  있으며 SQL과 Python을 통해 데이터셋을 효과적으로 전처리하고 EDA하는 데 능합니다. 데이터를 통해 문제를 발굴하고, 찾은 문제를 해결하기 위해 함께 고민하는 것을 즐기며 일합니다.
+
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none; padding-right: 15px;">
+      <img src="https://avatars.githubusercontent.com/u/184589758?s=400&u=3a9ffaccd703ecf2bde21043135484e47f1d33ed&v=4" width="600">
+    </td>
+    <td style="border: none;">
+      안녕하세요, SNS & 콘텐츠 구독 플랫폼 로그 데이터 분석 및 시각화에 대한 경험을 가진 데이터 분석가 문상혁입니다. 퍼포먼스 광고대행사와 인하우스 SNS플랫폼에서 그로스 마케터로 데이터 분석 업무를 경험하며 다양한 비즈니스에 대한 이해도를 높였습니다. 콘텐츠 구독 플랫폼, 이커머스, 공공데이터 등 다양한 RAW 데이터를 EDA한 경험을 보유하고 있으며 SQL과 Python을 통해 데이터셋을 효과적으로 전처리하고 EDA하는 데 능합니다. 데이터를 통해 문제를 발굴하고, 찾은 문제를 해결하기 위해 함께 고민하는 것을 즐기며 일합니다.
+    </td>
+  </tr>
+</table>
+
+[👉더 자세한 이력서는 여기서 확인하실 수 있습니다(노션)👈](https://basalt-niece-e53.notion.site/18c333e460ca80ae99f8c9dd1ab5daba)
+
 
 > ### **Highlights**
 
@@ -21,47 +34,37 @@
 #### 광고대행사 광고사업팀 *매니저*
 - 엑셀로 광고 플랫폼 데이터를 분석 후 전략 제안하여 클라이언트의 광고수익률 300%p 증가 및 커머스 플랫폼 카테고리 매출 1위를 달성했다.
 - 구글, 네이버, 커머스 플랫폼 광고 A/B TEST 실시하여 광고수익률 최적화
+
 ---
+> ### Project
+진행했던 프로젝트를 소개합니다.
 
-> ### Skills
-보유한 스킬을 소개합니다.
+1️⃣ [로그데이터 분석을 통한 콘텐츠 구독 서비스 전환 개선 프로젝트🏆](https://basalt-niece-e53.notion.site/18c333e460ca8120a1fbeb02311f64d9)\
+2️⃣ [유저 세그멘테이션을 통한 멤버십 프로모션 기획👥](https://basalt-niece-e53.notion.site/197333e460ca80ce91d8f3a587f8cbff)\
+3️⃣ [광고 데이터 분석을 통한 매출 및 ROAS 개선📊](https://basalt-niece-e53.notion.site/ROAS-197333e460ca801cae88ec0df43d06fb)
 
-**Hard Skills**
+---
+> ### Efforts
+1. 2024년 10월부터 하루도 빠짐없이 commit하고 있습니다.
+    - SQL 문제 풀이, python 프로젝트, 공부한 내용 정리 등 그날 공부하고 진행했던 코드들을 하루도 빠짐없이 commit 하는 1일 1커밋을 진행하고 있습니다.\
+        ![image](https://github.com/user-attachments/assets/f4f90304-3df3-4849-9463-285de4f46bc1)
 
-- **데이터 기반의 실험적 사고를 지니고 일합니다.**
-    - 유저 행동 데이터 분석 기반으로 기획한 타겟 세그먼트별 맞춤 전략 수립하여 멤버십 가입을 약 2.7배 상승시켰습니다.
-    - 웹사이트 유입을 늘리기 위해 개발자, 디자이너와 협업하여 UI/UX 실험을 진행힌 경험이 있습니다.
-    - 광고 성과 데이터 분석을 통해 광고수익률 300%p 증가 및 커머스 플랫폼 카테고리 매출 1위 달성한 경험이 있습니다.
-- **데이터 분석 및 시각화 역량을 가지고 있습니다.**
-    *SQL, Python, Amplitude, GA4, Mixpanel, Looker Studio*
-    - SQL, Python을 통해 원하는 데이터를 추출하고 가공할 수 있습니다.
-    - Python을 통해 데이터 분석이 가능합니다.(퍼널분석, 코호트 분석, 회귀분석, 클러스터분석, RFM, 로그분석 등) - `pandas`, `matplotlib`, `scikit-learn`, `seaborn`, `numpy` , `plotly`, etc.
-- **AARRR 프레임워크에 대한 이해도가 높으며, 업무에 적용할 수 있습니다.**
-    - 유저 행동 시나리오 전반적으로 문제를 발견하고 개선합니다.
-    - 퍼널 단계에 맞는 지표를 정의하고 분석하여 문제를 발굴합니다.
-- **협업툴 사용에 능숙합니다.** (Slack, Notion, Colab, Confluence, Asana, Figma, Git)
-    - 스타트업 환경에서 근무하며 다양한 협업툴을 사용했습니다.
-
-**Soft Skills**
-
-- **문제 정의를 통한 문제 해결 능력이 뛰어납니다.**
-    - 결제 수단 등록을 유도하는 멤버십 프로모션 진행하여 구독 1개월 후 해지율 8%p 감소
-    - 앱스토어 노출, 상세 페이지 조회, 앱 다운로드 퍼널 전환 문제 정의 후 ASO 기획 및 진행
-- **개발자, 디자이너, PM, 협력사 등 다양한 주체와 협업한 경험이 많습니다.**
-    - 앱•웹 서비스, 광고 대행사에서 근무하며 다양한 주체와 협업을 진행했습니다.
-    - PM, 개발자, 디자이너와 협업하여 프로모션, 이벤트, 유저 시나리오 개선 등을 진행했습니다.
-- **효율적인 방식과 더불어 따뜻한 표현으로 소통합니다.**
-- **성장에 대한 의지가 강하며 일을 통해 자아를 실현하고자 합니다.**
-    - 2024.10.11 부터 현재까지 하루도 빠짐없이 Github에 작성한 코드를 커밋하였습니다.([Github 링크](https://github.com/harrym8n))
-    - 블로그에 SQL, Python, 데이터 분석과 관련하여 배운 점을 정리하여 포스팅하였습니다.([블로그 링크](https://harrym8n.tistory.com/))
-    - 데이터 기반의 의사결정이 필요한 업무를 진행하며 SQL과 통계 관련 기초 지식의 필요성을 느껴 퇴근 후 공부로 SQL 개발자(SQLD), 데이터 분석 준전문가(ADsP) 자격증을 취득하였습니다.
-- **안된다고 생각하지 않고 일단 시도하는 것을 선호합니다.**
-
+2. 기술 블로그 운영
+    - 데이터 분석 관련 프로젝트, 공부를 하며 문제를 해결한 부분, 깨닫게 된 부분 등의 러닝 포인트들을 TIL로 정리하고 있습니다. ([보러가기](https://harrym8n.tistory.com/category/DA%20Study/TIL))
+    - IT 서비스의 프로덕트의 기획과 실행 과정을 역으로 분석하는 데이터 역분석 아티클 'Data Unpacking' 아티클을 작성하였습니다. ([보러가기](https://harrym8n.tistory.com/category/Data%20Unpacking%20%23%EC%95%84%ED%8B%B0%ED%81%B4%20%23%EC%97%AD%EB%B6%84%EC%84%9D))
+   
+3. 자격증 취득
+   - SQLD, ADsP, GAIQ 등 데이터 분석 자격증을 취득하였습니다.
+     
 ---
 
 > ### **Contact**
 Email : clue221b@naver.com\
 Tel : 010-2808-1663
+<details>
+  <summary>포트폴리오 및 블로그</summary>
+  https://github.com/harrym8n
+    <br>
+    https://harrym8n.tistory.com
+</details>
 
-https://github.com/harrym8n \
-https://harrym8n.tistory.com
