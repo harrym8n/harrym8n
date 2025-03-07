@@ -47,7 +47,7 @@
 > ### Efforts
 1. 2024년 10월부터 하루도 빠짐없이 commit하고 있습니다.
     - SQL 문제 풀이, python 프로젝트, 공부한 내용 정리 등 그날 공부하고 진행했던 코드들을 하루도 빠짐없이 commit 하는 1일 1커밋을 진행하고 있습니다.\
-        ![image](https://github.com/user-attachments/assets/f4f90304-3df3-4849-9463-285de4f46bc1)
+        ![image](https://github.com/user-attachments/assets/458c4908-cecf-4b16-a215-1bb671c71ff6)
 
 2. 기술 블로그 운영
     - 데이터 분석 관련 프로젝트, 공부를 하며 문제를 해결한 부분, 깨닫게 된 부분 등의 러닝 포인트들을 TIL로 정리하고 있습니다. ([보러가기](https://harrym8n.tistory.com/category/DA%20Study/TIL))
